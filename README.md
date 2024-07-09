@@ -9,7 +9,7 @@ This GitHub project is my debut webpage, a clone of Myntra's interface. It mimic
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript
+**Frontend:** HTML, CSS, nix
 
 **Backend:** JavaScript
 
